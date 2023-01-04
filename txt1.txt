@@ -1,2 +1,6 @@
 this sjflks hflskjfs jlfhjThis is a t fdsfjajskdfls
 ext file.
+
+value of x = 5
+value of y = 10
+
